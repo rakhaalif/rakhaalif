@@ -1,6 +1,6 @@
 # Hi, I'm Rakha Alif Athallah 👋
 
-<a href="https://www.linkedin.com/in/username-linkedin-anda/">
+<a href="https://www.linkedin.com/in/rakhaalif/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -11,9 +11,9 @@ I am a final-year Informatics Engineering student with a deep passion for Data A
 
 My journey through the **DBS Coding Camp x Dicoding (MBKM)** program has equipped me with hands-on experience in the end-to-end data science lifecycle, from data processing to deploying machine learning models.
 
-- 🔭 I’m currently working on sharpening my Deep Learning and MLOps skills.
-- 🌱 I’m currently learning about deploying models at scale.
-- 📫 How to reach me: **emailanda@example.com**
+- 🔭 I’m currently working on projects that transform complex data into business value, combining deep analytical insights with robust machine learning engineering.
+- 🌱 I’m currently learning how to communicate data stories more effectively to stakeholders and best practices for monitoring ML models in production.
+- 📫 How to reach me: rakhaalifathallah123@gmail.com
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,6 +23,7 @@ My journey through the **DBS Coding Camp x Dicoding (MBKM)** program has equippe
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
